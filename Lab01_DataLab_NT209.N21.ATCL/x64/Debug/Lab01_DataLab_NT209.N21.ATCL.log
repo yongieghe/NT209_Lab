@@ -1,0 +1,4 @@
+﻿  Lab01_DataLab_NT209.N21.ATCL.cpp
+D:\LTHT\Lab01_DataLab_NT209.N21.ATCL\Lab01_DataLab_NT209.N21.ATCL.cpp(57,28): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+D:\LTHT\Lab01_DataLab_NT209.N21.ATCL\Lab01_DataLab_NT209.N21.ATCL.cpp(74,36): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  Lab01_DataLab_NT209.N21.ATCL.vcxproj -> D:\LTHT\Lab01_DataLab_NT209.N21.ATCL\x64\Debug\Lab01_DataLab_NT209.N21.ATCL.exe
